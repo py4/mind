@@ -1,4 +1,2 @@
-***header1
-*bold*
-**italic**
+Hello this is a markdown text
 
